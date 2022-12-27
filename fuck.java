@@ -1,3 +1,3 @@
 public class fuck {
-    String asd ;
+    String allsd ;
 }
